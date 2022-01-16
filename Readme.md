@@ -11,10 +11,10 @@ data
 ```
 You should see something like this, I have deleted and correputed the data
 
-![blurred!](sample_blured.jpg)
+![blurred!](sample_blured.png)
 
 then you can save it using these steps from stackoverfloew
 
 https://stackoverflow.com/questions/11849562/how-to-save-the-output-of-a-console-logobject-to-a-file
 
-![Saving data to clipboard!](saving.jpg)
+![Saving data to clipboard!](saving.png)
